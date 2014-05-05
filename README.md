@@ -11,7 +11,7 @@ title-generator
 
 ```
 var primaryArtists = ["Jack", "Bill"];
-var featArtists = ["Rob", "Deadmau5"];
+var featArtists = ["Rob", "Jon Feat"];
 var remixArtists = ["Cat4", "Snow"];
 var trackName = "Little Star";
 var opts = {
@@ -20,6 +20,6 @@ var opts = {
   featArtists: featArtists,
   remixArtists: remixArtists 
 }
-titleGenerator.releaseTitle(opts); //"Little Star - Jack & Bill (feat. Rob & Deadmau5) [Cat4 & Snow Remix]"
+titleGenerator.releaseTitle(opts); //"Little Star - Jack & Bill (feat. Rob & Feat) [Cat4 & Snow Remix]"
 
 ```
