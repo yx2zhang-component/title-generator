@@ -1,6 +1,12 @@
 title-generator
 ===============
 
+# Title Generator
+
+  Title Generator.
+
+  [![Build Status](https://travis-ci.org/yx2zhang-component/title-generator.svg)](https://travis-ci.org/yx2zhang-component/title-generator)
+
 ## Installation
 
   Install with [component(1)](http://component.io):
