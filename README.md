@@ -20,6 +20,6 @@ var opts = {
   featArtists: featArtists,
   remixArtists: remixArtists 
 }
-titleGenerator.releaseTitle(opts); //"Little Star - Jack & Bill (feat. Rob & Feat) [Cat4 & Snow Remix]"
+titleGenerator.releaseTitle(opts); //"Little Star - Jack & Bill (feat. Rob & Jon Feat) [Cat4 & Snow Remix]"
 
 ```
