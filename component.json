@@ -1,0 +1,14 @@
+{
+  "name": "title-generator",
+  "repo": "yx2zhang-component/title-generator",
+  "description": "generate release title",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
